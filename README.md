@@ -1,20 +1,18 @@
 # GMGN Sniping Bot
 
-![GMGN Logo](https://gmgn.ai/static/images/logo.png)
-
 Automated bot for sniping memecoins on Pump.fun using GMGN's Solana Trading API.
 
 ## Setup
 
 1. **Install Node.js (v16+):**
    ```bash
-   # Download and install Node.js from https://nodejs.org/
+   Download and install Node.js from https://nodejs.org/
    ```
 
 2. **Clone the repository:**
    ```bash
-   git clone <repository_url>
-   cd gmgn-sniping-bot
+   git clone https://github.com/yllvar/gmgn-sniping.git
+   cd gmgn-sniping
    ```
 
 3. **Install dependencies:**
@@ -43,8 +41,6 @@ Automated bot for sniping memecoins on Pump.fun using GMGN's Solana Trading API.
 ## Architecture
 
 ### System Overview
-
-![System Overview](https://via.placeholder.com/800x400?text=System+Overview)
 
 ### Workflow Diagram
 
