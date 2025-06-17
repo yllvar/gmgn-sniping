@@ -1,0 +1,17 @@
+{
+  "name": "gmgn-sniping-bot",
+  "version": "1.0.0",
+  "description": "Automated memecoin sniping bot using GMGN Solana Trading API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7",
+    "@solana/web3.js": "^1.95.3",
+    "bs58": "^5.0.0",
+    "telegraf": "^4.16.3",
+    "dotenv": "^16.4.5"
+  }
+}
